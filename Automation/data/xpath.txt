@@ -1,0 +1,4 @@
+(//h3[.='HRX by Hrithik Roshan']/../div/span/span)[1]
+(//h3[.='H&M']/../div/span)[1]
+(//a[@class='IRpwTa']/../a/div/div[1])[1]
+(//span[@class='a-size-medium a-color-base a-text-normal']/../../../../div[3]/div/div/div/div/div/a/span)[1]
